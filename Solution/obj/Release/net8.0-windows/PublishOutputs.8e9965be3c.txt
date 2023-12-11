@@ -1,0 +1,5 @@
+C:\Users\Sudhanshu\Desktop\Others\Visual Studio\Completed Projects\Calculator\Calculator.exe
+C:\Users\Sudhanshu\Desktop\Others\Visual Studio\Completed Projects\Calculator\Calculator.dll
+C:\Users\Sudhanshu\Desktop\Others\Visual Studio\Completed Projects\Calculator\Calculator.deps.json
+C:\Users\Sudhanshu\Desktop\Others\Visual Studio\Completed Projects\Calculator\Calculator.runtimeconfig.json
+C:\Users\Sudhanshu\Desktop\Others\Visual Studio\Completed Projects\Calculator\Calculator.pdb
