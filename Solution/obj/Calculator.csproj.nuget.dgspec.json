@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sudhanshu\\Desktop\\Others\\Visual Studio\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\Sudhanshu\\Desktop\\Others\\git\\Calculator\\Solution\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sudhanshu\\Desktop\\Others\\Visual Studio\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\Sudhanshu\\Desktop\\Others\\git\\Calculator\\Solution\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sudhanshu\\Desktop\\Others\\Visual Studio\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Sudhanshu\\Desktop\\Others\\git\\Calculator\\Solution\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Sudhanshu\\Desktop\\Others\\Visual Studio\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Sudhanshu\\Desktop\\Others\\git\\Calculator\\Solution\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Sudhanshu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sudhanshu\\Desktop\\Others\\Visual Studio\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Sudhanshu\\Desktop\\Others\\git\\Calculator\\Solution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sudhanshu\\AppData\\Roaming\\NuGet\\NuGet.Config",

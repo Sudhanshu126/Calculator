@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculator
-build_property.ProjectDir = C:\Users\Sudhanshu\Desktop\Others\Visual Studio\Calculator\
+build_property.ProjectDir = C:\Users\Sudhanshu\Desktop\Others\git\Calculator\Solution\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
